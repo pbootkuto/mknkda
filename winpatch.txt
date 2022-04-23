@@ -1,4 +1,4 @@
-﻿; 分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行
+; 分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行
 
 
 
@@ -38,4 +38,3 @@ _1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/202
 
 ; 2022-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x86 的系统
 ;_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009546-x86_73496bd12a08c0c89ecddd92473d994a20a763d0.msu
-
