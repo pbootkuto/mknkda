@@ -4,11 +4,11 @@
 
 ; 2022-05 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 
-_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
+_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows8.1-kb5014738-x64_5a8213e20854c2462b6b3dd005fe30caba1a7da2.msu
 
 ; 2022-05 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 
-_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
+_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows8.1-kb5014738-x86_e7b4d85eb22793c8a023a32689638bc32c7ab9f7.msu
 
 
 ; 2022-05 适用于 Windows 8.1 基于 x64 系统的仅安全更新
@@ -21,7 +21,7 @@ _only_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/sof
 
 ; 2022-05 Windows 10 1809 基于 x64 系统的累计更新
 
-_1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
+_1809x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
 
 ; 2022-01 Windows 10 1809 基于 x86 系统的累计更新
 
@@ -31,7 +31,7 @@ _1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/softwar
 ;_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009543-x86_69e8ed8913acd957d9bd3ab9ccaf0eabeaeb7aea.msu
 
 ; 2022-05适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x64 的系统 
-_21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x64_70e350118b85fdae082ab7fde8165a947341ba1a.msu
+_21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x64_1807d6b5df2947669d4cb00d322969ccd43030a3.msu
 
 ; 2022-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x64 的系统
 ;_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009546-x64_d3ab97e9f811d7bf19c268e5e6b5e00e92e110ed.msu
